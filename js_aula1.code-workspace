@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../OneDrive/Documentos/Área de Trabalho/Pastas/projeto_gta/src/fontes"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js_aula1"
+	}
+}
