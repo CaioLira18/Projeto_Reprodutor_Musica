@@ -11,3 +11,8 @@
 # Objetivos do Projeto:
 - Aprimorar os conhecimentos no Web design
 - Conhecer mais sobre o JS e suas funções dentro de um site
+
+# Funcionalidade:
+- A Capacidade de reproduzir um album completo da banda "Queen",
+juntamente com as opções de: Mudar a musica, Pausar a musica e
+Tocar a musica.
